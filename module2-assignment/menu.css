@@ -1,0 +1,47 @@
+h1{
+
+  text-align: center;
+  margin-top: 35px;
+  font-size: 25px;
+  font-family: "Century Gothic", sans-serif;
+}
+
+.container {
+  display: flex;
+  font-family: "Century Gothic", sans-serif;
+}
+
+.box {
+
+  border: 3px solid black;
+  padding: 30px;
+  background-color: #999999;
+  margin: 15px;
+}
+
+.title {
+  text-align: right;
+  padding: 10px;
+  font-weight: bold;
+}
+
+.pink {
+  background-color: #d49999;
+  border: 3px solid black;
+  size: 3px;
+}
+
+.red {
+  background-color: #bf4646;
+  color: #FFFFFF;
+  border: 3px solid black;
+}
+
+.yellow {
+  background-color: #e5d09b;
+  border: 3px solid black;
+}
+
+.content {
+  margin-top: 10px;
+}
